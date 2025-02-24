@@ -60,7 +60,7 @@ npm test
 
 You can also run this project using Docker:
 ```bash
-docker compose up
+docker-compose up
 ```
 
 Access the application:
